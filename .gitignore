@@ -1,0 +1,7 @@
+mysql-data/
+.env
+*.log
+.idea/
+.vscode/
+*.tar
+*.zip
