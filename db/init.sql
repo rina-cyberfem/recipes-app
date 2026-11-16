@@ -12,3 +12,6 @@ INSERT INTO recipes (title, ingredients, time_minutes) VALUES
 ('Борщ', 'Свёкла, капуста, мясо', 90),
 ('Паста карбонара', 'Спагетти, бекон, яйца', 25),
 ('Оливье', 'Картофель, горошек, колбаса', 60);
+INSERT INTO recipes (title, ingredients, time_minutes) VALUES
+('Блины', 'Молоко, мука, яйца, сахар', 30),
+('Пицца', 'Тесто, сыр, томаты, колбаса', 45);
